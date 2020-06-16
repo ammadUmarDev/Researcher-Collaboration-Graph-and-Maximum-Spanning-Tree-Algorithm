@@ -8,9 +8,11 @@ DBLP listed more than 3.66 million journal articles, conference papers, and othe
 publications on computer science in July 2016, up from about 14,000 in 1995. All important
 journals on computer science are tracked. Proceedings papers of many conferences are
 also tracked. It is mirrored at three sites across the Internet.
-This semester your Design and Analysis of Algorithm project is to use a DBLP dataset
-from the following link.        
-https://drive.google.com/file/d/1_-n6eQI-7O9l9F9tHteQAH_CRsqeeUfC/view?usp=sharing        
+This semester your Design and Analysis of Algorithm project is to use a DBLP dataset.
+
+### Download the dataset
+https://drive.google.com/file/d/1_-n6eQI-7O9l9F9tHteQAH_CRsqeeUfC/view?usp=sharing   
+
 DBLP dataset has information of collaboration among multiple researchers. In this project
 you have to find the most important collaboration among the whole dataset. In order to do
 so you need to create a graph for the given data set. In your graph, Node represents
